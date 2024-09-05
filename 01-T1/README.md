@@ -15,7 +15,7 @@
 - USART2 (wDMA)-> Serial6 -> IBUS  (+5,Gnd,Rx6)
 - USART6 (wDMA)-> Serial5 -> Telemetry (Tx5)
 - USART1 (wDMA)-> Serial1 -> OSD HD (Tx1,Rx1,Vbat,Gnd)
-- UART4 (noDMA)-> Serial4 -> GPS
+- UART4 (noDMA)-> Serial4 -> GPS Ublx7 (Gnd,Rx4, Tx4, 4v5) 
 - UART5 (noDMA)-> Serial3 -> ()
 - UART3 (noDMA)-> Serial2 -> ()
 - S1 - ESC Left
