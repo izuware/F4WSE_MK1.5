@@ -1,4 +1,4 @@
-# my config
+#  config F4WSE_MK1.5
 
 | | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
@@ -33,3 +33,26 @@
 - S10
 - S11
 - S12 - LED strip
+
+
+
+#  config SPEEDYBEE WING MINI
+
+|  |  |  |  |  |  |  |  |  |    |
+|- | -| -| -| -| -| -| -| -| -  |
+|S9|S8|S7|S6|S5|S4|S3|S2|S1|SBUS|
+|Gm|  |  |  |Pith|Ele|Ele |Mot |Mot |    |
+|bl|  |  |  |   |Left|Righ|Left|Righ|    |
+
+
+USB VCP MSP  
+UART1 Serial RX  
+UART2   
+UART3 GPS  
+UART4  
+UART5  DisplayPort  
+UART6 MSP  
+
+
+![](https://store-fhxxhuiq8q.mybigcommerce.com/product_images/img_SpeedyBee_F405_WING_MINI/SB_F405-WING-MINI-16.jpg) 
+
