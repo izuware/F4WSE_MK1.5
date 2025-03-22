@@ -41,8 +41,8 @@
 |  |  |  |  |  |  |  |  |  |    |
 |- | -| -| -| -| -| -| -| -| -  |
 |S9|S8|S7|S6|S5|S4|S3|S2|S1|SBUS|
-|Gm|  |  |  |Pith|Ele|Ele |Mot |Mot |    |
-|bl|  |  |  |   |Left|Righ|Left|Righ|    |
+||Gim|  |Pith||Ele|Ele |Mot |Mot |    |
+||bal|  |  |   |Left|Righ|Left|Righ|    |
 
 
 USB VCP MSP  
